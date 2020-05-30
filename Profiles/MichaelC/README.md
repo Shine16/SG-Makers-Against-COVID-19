@@ -8,6 +8,7 @@ Here you can find my sample profile for PrusaSlicer, this is working great on my
 * BLTouch auto bed leveling
 * [MicroSwiss All Metal Hotend](https://store.micro-swiss.com/products/all-metal-hotend-kit-for-cr-10)
 * [Bondtech BMG](https://www.bondtech.se/en/product/creality-cr-10-kit/) extruder
+* Trianglelab 235x235mm pei coated spring steel build plate https://www.aliexpress.com/item/33008374363.html
 
 My firmware is taken from here and customised for my defaults (probe offset, retraction, custom menu etc.) https://github.com/morningreis/Marlin-SKR-E3-Mini-1.2
 
