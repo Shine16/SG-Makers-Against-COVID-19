@@ -10,3 +10,7 @@ Here you can find my sample profile for PrusaSlicer, this is working great on my
 * Bondtech BMG extruder
 
 My firmware is taken from here and customised for my defaults (probe offset, retraction, custom menu etc.) https://github.com/morningreis/Marlin-SKR-E3-Mini-1.2
+
+## Useful Links
+
+* https://www.reddit.com/r/ender3/comments/dnew1m/writeup_how_to_silence_your_ender_3_almost/
